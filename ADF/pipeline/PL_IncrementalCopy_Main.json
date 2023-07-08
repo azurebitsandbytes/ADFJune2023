@@ -1,6 +1,7 @@
 {
 	"name": "PL_IncrementalCopy_Main",
 	"properties": {
+		"description": "This Pipeline is used to copy data incrementally using a configuration table",
 		"activities": [
 			{
 				"name": "LKP_ConfigurationTable",
